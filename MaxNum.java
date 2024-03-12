@@ -1,24 +1,11 @@
 /*
-Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
-Percentage >= 90% : Grade A
-Percentage >= 80% : Grade B
-Percentage >= 70% : Grade C
-Percentage >= 60% : Grade D
-Percentage >= 40% : Grade E
-Percentage < 40% : Grade F
-
+Write a program to find maximum between 3 input numbers
 I/P
-Enter The Five Subject Marks :
-65
-89
-82
-95
-85
+Enter 3 numbers: 10 15 6
 
 O/P
-Total :416
-Percentage :83.0
-Grade B
+Max number is: 15
+
 */
 import java.util.Scanner;
 
