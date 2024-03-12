@@ -1,3 +1,14 @@
+/*
+2) Take input only ranging between 1 and 7, Display name of the day basing on the input value using Switch-case 
+
+Ex.
+I/P
+Enter a number: 2
+
+O/P
+Monday
+*/
+
 import java.util.Scanner;
 
 public class Daysusingswitch {
