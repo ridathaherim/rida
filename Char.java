@@ -1,3 +1,18 @@
+/*
+Write a program to input any character and check whether it is alphabet, digit or special character
+
+I/P
+Enter a value: m
+
+O/P
+m is a an alphabet
+
+I/P
+Enter a value: 8
+
+O/P
+8 is a a digit
+*/
 import java.util.Scanner;
 
 public class Char {
