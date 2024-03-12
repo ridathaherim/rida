@@ -1,15 +1,25 @@
 /*
-Write a program to input basic salary of an employee and calculate its Gross salary according to following:
-
-Basic Salary <= 10000 : HRA = 20%, DA = 80%
-Basic Salary <= 20000 : HRA = 25%, DA = 90%
-Basic Salary > 20000 : HRA = 30%, DA = 95%
+Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
 
 I/P
-Enter The Basic Salary :25000
+Enter The Five Subject Marks :
+65
+89
+82
+95
+85
 
 O/P
-Gross Salary : 56250.0 
+Total :416
+Percentage :83.0
+Grade B
+ 
 */
 import java.util.Scanner;
 
