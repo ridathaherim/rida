@@ -1,3 +1,16 @@
+/*
+    1) Write a program to implement calculator in Java
+   i) Take 2 double values as input
+  ii) Take operator (+, 0, * /) as input
+ iii) basing on the operator perform calculation of input values and display answer
+
+I/P
+Enter two numbers: 20 98
+Enter an operator (+, -, *, /): /
+
+O/P
+20.0 / 98.0 = 0.2
+    */
 import java.util.Scanner;
 public class Calc {
     public static void main(String args[]){
